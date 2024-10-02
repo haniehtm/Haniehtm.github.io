@@ -1,18 +1,13 @@
 subject: Awards
-listing-order: 8
+listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: Top 6% student in Physics department and Economics department(among 60 students).
-    date: 2024
-  - title: Top 0.7% in the national university entrance exam(among 155000 students).
-    date: 2020
-  - title: Ranked 1 graduated at Bahonar Magnet High School. 
-    date: 2020
-  - title: Collaboration with the student scientific Journal
-    description: Member of the editorial council in ranked 1 student's scientific journal, Takaneh magazine.
-    date: 2024 - Present
-  - title: Student's Union Council
-    date: 2023 - 2024
-  - title: Lecturer
-    description: Giving Several Introductory Talks at Weekly Seminars of Lambda Circle Session Series.
-    date: 2022
+  - title: IEEEE Fellow
+    description: Association for Natural Language Processing
+    date: Feb. 2024
+  - title: Gogle CodeJam
+    description: 3rd place in Gogle CodeJam
+    date: Jul. 2013
+  - title: Millennium Hackaton
+    description: won the best Inspirational Youth Awards
+    date: Oct. 2010
