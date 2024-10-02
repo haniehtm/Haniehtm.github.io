@@ -1,0 +1,13 @@
+subject: Education
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Sharif University of Technology, B.S major in Physics
+    grade: "**GPA**: `18.64/20.0(4.0/4.0)`"
+    date:  Fall 2020 - Present
+  - title: Sharif University of Technology, B.S Minor in Economics
+    grade: "**GPA**: `19.43/20.0(4.0/4.0)`"
+    date: Fall 2020 - Present
+  - title: Bahonar Magnet High School, Diploma in Physics & Mathematics
+    grade: "**GPA**: `19.68/20.0(4.0/4.0)`"
+    date: Fall 2017 - Summer 2020

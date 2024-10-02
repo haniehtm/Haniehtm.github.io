@@ -1,0 +1,20 @@
+subject: Teaching Experience
+listing-order: 5
+icon: "/assets/img/education-bag-learning-18-svgrepo-com.svg"
+contents:
+  - title: Teaching Assistant, Econophysics
+    description: 
+      instructor: Prof. M Reza Rahimi Tabar
+    date: Sep 2024 - Feb 2025
+  - title: Teaching Assistant, Contemporary Physics
+    description: 
+      instructor: Prof. Shahin Rouhani
+    date: Sep 2024 - Feb 2025
+  - title: Teaching Assistant, Introductory Programming(in Python)
+    description: 
+      instructor: Dr. Hamidreza Hosseinkhani
+    date: Sep 2021 - Feb 2022
+  - title: Teaching Assistant, Physics and Mathematics
+    description: 
+      instructor: Dr. Elnaz Rezai
+    date: Jun 2022 - Sep 2022

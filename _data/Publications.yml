@@ -1,0 +1,53 @@
+subject: Notable Courses
+listing-order: 4
+icon: "/assets/img/pen-new-round-svgrepo-com.svg"
+contents:
+  - title: Stochastic Processes
+    supervisor: Prof. M. Reza Rahimi Tabar
+    grade: "**Grade**: `20.0/20.0`"
+  - title: Principles of Economics
+    supervisor: Prof. Masoud Nili
+    grade: "**Grade**: `20.0/20.0`"
+  - title: Macroeconomics
+    supervisor: Prof. A. Mahmoudzadeh
+    grade: "**Grade**: `20.0/20.0`"
+  - title: Econometrics
+    supervisor: Dr. M. Javad Dashtimanesh
+    grade: "**Grade**: `20.0/20.0`"
+  - title: Engineering Statistics and Probability
+    supervisor: Prof. Arman Ashtab
+    grade: "**Grade**: `20.0/20.0`"
+  - title: THERMODYN & STAT MECH2
+    supervisor:  Prof. Akhavan Ashrafieh
+    grade: "**Grade**: `20.0/20.0`"
+  - title: Introductory Programming(in Pyhton)
+    supervisor:  Dr. Hamidreza Hosseinkhani
+    grade: "**Grade**: `20.0/20.0`"
+  - title: Complex Systems
+    supervisor: Prof. Shahin Rouhani
+    grade: "**Grade**: `19.5/20.0`"
+  - title: History of Economics
+    supervisor: Prof. Farhad Nili
+    grade: "**Grade**: `19.3/20.0`"
+  - title: Microeconomics
+    supervisor:  Dr. Tajrishy
+    grade: "**Grade**: `19.0/20.0`"
+  - title: THERMODYN & STAT MECH1 
+    supervisor:  Prof. Akhavan Ashrafieh
+    grade: "**Grade**: `19.0/20.0`"
+  - title: Biophysics
+    supervisor:   Prof. Nader Reihani 
+    grade: "**Grade**: `18.0/20.0`"
+  - title: Network Science
+    supervisor:   Prof. Saman Moghimi Araghi
+    grade: "**Grade**: `18.0/20.0`"
+  - title: Digital Economics
+    supervisor:   Prof. Farhad Nili
+    grade: "**Grade**: `17.7/20.0`"
+  - title: Econophysics
+    supervisor:   Prof. M. Reza Rahimi Tabar
+    grade: "**Grade**: `TBA/20.0`"
+  - title: Individual Study
+    supervisor:   Prof. M. Reza Rahimi Tabar
+    grade: "**Grade**: `TBA/20.0`"
+

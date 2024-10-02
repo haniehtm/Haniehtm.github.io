@@ -1,0 +1,25 @@
+subject: Skills
+listing-order: 6
+icon: "/assets/img/screwdriver-wrench.svg"
+contents:
+  - title: Programming Languages
+    description:  
+      - Python
+      - STATA
+      - R
+      - C
+      - C++
+      - Julia
+      - Java
+      - Matlab
+      - Mathematica
+  - title: Frameworks
+    description: 
+      - Adobe Indesign
+      - Photoshop
+      - MS Office
+      - LATEX
+      - Git
+      - Zotero
+      - Parallel Computation
+      - Web Scraping
